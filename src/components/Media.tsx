@@ -14,6 +14,10 @@ export default function Media() {
       <div className=" text-center font-mono">
         打赏地址☕️(小熊地址): 0x887E895e37B6F70E61797EB1Ec5Ca23dBDFE754e
       </div>
+
+      <div className=" text-center font-mono">
+        说明: 程序默认账号gas打完为止
+      </div>
     </div>
   );
 }
